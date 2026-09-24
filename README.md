@@ -1,4 +1,4 @@
-# typing_analyzer
+# Typing Analyzer
 
 Typing Speed Test Program
 What it does
