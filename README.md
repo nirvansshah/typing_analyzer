@@ -1,6 +1,6 @@
 # Typing Analyzer
 
-Typing Speed Test Program
+Typing Speed Test Program written in Python
 What it does
 This is a program I made to test how fast you can type.
 You type a paragraph, and it tells you your speed (WPM) and your accuracy. It has 3 rounds, and after you finish, it shows you a graph of your results.
